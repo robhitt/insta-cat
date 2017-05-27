@@ -1,0 +1,17 @@
+{
+  "name": "insta-cat-api",
+  "version": "0.0.1",
+  "description": "Bodega Cats API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cats"
+  ],
+  "author": "Rob Hitt",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
